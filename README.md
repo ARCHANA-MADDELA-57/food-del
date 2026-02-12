@@ -14,7 +14,7 @@ Food Del is a comprehensive **MERN Stack** food delivery application. It feature
 
 | Customer Frontend | Admin Dashboard |
 |---|---|
-| ![Landing Page](./screenshots/HomePage.png) | ![Admin Panel](./screenshots/Admin_AddItemsPage.png) |
+| ![Landing Page](./Screenshots/HomePage.png) | ![Admin Panel](./Screenshots/Admin_AddItemsPage.png) |
 
 ---
 
