@@ -95,7 +95,13 @@ Add to cart
 Place order
 
 📸 Screenshots
-<p align="center"> <img src="./screenshots/HomePage.png" width="30%" /> <img src="./screenshots/LoginPage.png" width="30%" /> <img src="./screenshots/RegisterPage.png" width="30%" /> </p> <p align="center"> <img src="./screenshots/CartPage.png" width="30%" /> <img src="./screenshots/OrdersPage.png" width="30%" /> <img src="./screenshots/AdminPage.png" width="30%" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com
+/ARCHANA-MADDELA-57/food-del/main/Screenshots/HomePage.png" width="30%" /> <img src="https://raw.githubusercontent.com
+/ARCHANA-MADDELA-57/food-del/main/Screenshots/RegisterPage.png" width="30%" /> <img src="https://raw.githubusercontent.com
+/ARCHANA-MADDELA-57/food-del/main/Screenshots/LoginPage.png" width="30%" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com
+/ARCHANA-MADDELA-57/food-del/main/Screenshots/MenuPage.png" width="30%" /> <img src="https://raw.githubusercontent.com
+/ARCHANA-MADDELA-57/food-del/main/Screenshots/MenuPage1.png" width="30%" /> <img src="https://raw.githubusercontent.com
+/ARCHANA-MADDELA-57/food-del/main/Screenshots/MenuPage_Salads.png" width="30%" /> </p>
 
 
 
