@@ -1,9 +1,16 @@
 # 🍔 Food Del - Full Stack Food Delivery App
 
 <p align="center">
+  <a href="https://food-del-frontend-oauq.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-🚀-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+> **Note:** If the link takes a few seconds to load, it's likely because the backend is hosted on a free instance (like Render) which "sleeps" when not in use.
+
+<p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-green.svg" alt="MERN Stack">
   <img src="https://img.shields.io/badge/Stripe-Integration-blue.svg" alt="Stripe">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintained">
 </p>
 
 Food Del is a comprehensive **MERN Stack** food delivery application. It features a seamless user experience for ordering food, a robust admin panel for managing the store, and secure payment integration using Stripe.
@@ -12,10 +19,12 @@ Food Del is a comprehensive **MERN Stack** food delivery application. It feature
 
 ## 📸 Screenshots
 
-| Customer Frontend | Admin Dashboard |
-|---|---|
-| ![Landing Page](./Screenshots/HomePage.png) | ![Admin Panel](./Screenshots/Admin_AddItemsPage.png) |
-
+| <img src="./Screenshots/HomePage.png" width="300"> | <img src="./Screenshots/MenuPage.png" width="300"> | <img src="./Screenshots/Admin_AddItemPage.png" width="300"> |
+| <img src="./Screenshots/RegisterPage.png" width="300"> | <img src="./Screenshots/MenuPage1.png" width="300"> | <img src="./Screenshots/Admin_ItemsPage.png" width="300"> |
+| <img src="./Screenshots/LoginPage.png" width="300"> | <img src="./Screenshots/MenuPage_Salads.png" width="300"> | <img src="./Screenshots/Admin_OrderPage.png" width="300"> |
+| <img src="./Screenshots/CartPage.png" width="300"> | <img src="./Screenshots/MenuPage_Rolls.png" width="300"> | <img src="./Screenshots/PaymentPage.png" width="300"> 
+| <img src="./Screenshots/CheckoutPage.png" width="300"> | <img src="./Screenshots/MenuPage_Cakes.png" width="300"> | <img src="./Screenshots/OrdersPage.png" width="300"> |
+| <img src="./Screenshots/FooterPage.png" width="300"> 
 ---
 
 ## ✨ Features
