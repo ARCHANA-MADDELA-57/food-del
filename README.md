@@ -56,8 +56,10 @@ Food Del is a comprehensive **MERN Stack** food delivery application. It feature
 ```bash
 git clone [https://github.com/ARCHANA-MADDELA-57/food-del.git](https://github.com/ARCHANA-MADDELA-57/food-del.git)
 cd food-del
+
 2. Install Dependencies
 Bash
+
 # Install for Backend
 cd backend && npm install
 
@@ -66,14 +68,16 @@ cd ../frontend && npm install
 
 # Install for Admin Panel
 cd ../admin && npm install
+
 3. Environment Variables
 Create a .env file in the backend folder:
-
 Code snippet
 MONGODB_URI=your_mongodb_connection_string
 STRIPE_SECRET_KEY=your_stripe_key
+
 4. Run the App
 Bash
+
 # In backend folder
 npm run dev
 
@@ -82,5 +86,7 @@ npm start
 
 # In admin folder
 npm start
+
+
 🤝 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
